@@ -1,0 +1,1 @@
+{"benchmarks":[{"time":"2023-08-04T21:26:13.671","benchmarkRuns":[{"benchmark":"zio.benchmarks.HttpCombineEval.ok","mode":"thrpt","primaryMetric":{"score":2227802.9738903586,"scoreUnit":"ops/s"}}]}]}

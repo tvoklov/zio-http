@@ -623,7 +623,7 @@ object ZClient {
       proxy = None,
       connectionPool = ConnectionPoolConfig.Fixed(10),
       maxHeaderSize = 8192,
-      requestDecompression = Decompression.No,
+      requestDecompression = Decompression.NonStrict,
       localAddress = None,
       addUserAgentHeader = true,
       webSocketConfig = WebSocketConfig.default,
